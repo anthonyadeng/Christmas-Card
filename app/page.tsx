@@ -35,8 +35,7 @@ export default function WinterPlayer() {
       <style jsx>{`
         .media-card {
           background-color: rgba(255, 255, 255, 0.95);
-          padding: 20px;
-          border-radius: 20px;
+         border-radius: 20px;
           box-shadow: 0 10px 30px rgba(0,0,0,0.3);
           max-width: 400px;
           width: 90%;
